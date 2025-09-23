@@ -63,7 +63,7 @@ layout: cover
 
 # Originally Axosoft (Still, technically)
 
-<img src="./images/axosoft-globoards.png" class="w-[60vw] h-auto mx-auto my-16">
+<img src="./images/axosoft.png" class="w-[60vw] h-auto mx-auto my-16 border-none!">
 
 ---
 layout: cover
@@ -71,7 +71,7 @@ layout: cover
 
 # Born Out of an Internal Hackathon
 
-## 2015 | Electron |React
+## 2015 | Electron | React
 
 ---
 layout: cover
@@ -83,7 +83,7 @@ layout: cover
 layout: cover
 ---
 
-<img src="./images/but-why.webp" class="w-[60vw] h-auto mx-auto my-16" />
+<img src="./images/but-why.webp" class="w-[50vw] h-auto mx-auto my-16" />
 
 ---
 layout: cover
@@ -302,13 +302,13 @@ layout: cover
 
 # Popularity (Google trends)
 
-<img src="./images/why-ts-popularity-search.png" class="w-[60vw] h-auto mx-auto my-16">
+<img src="./images/why-ts-popularity-search.png" class="w-[40vw] h-auto mx-auto my-16">
 
 ---
 
 # Popularity (NPM trends)
 
-<img src="./images/why-ts-popularity-npm.png" class="w-[60vw] h-auto mx-auto my-16">
+<img src="./images/why-ts-popularity-npm.png" class="w-[40vw] h-auto mx-auto my-16">
 
 ---
 layout: two-cols-header
@@ -346,7 +346,7 @@ Searched via GitHub
 
 1.1M results
 
-<img src="./images/github-search-ts.png" class="w-[30vw]">
+<img src="./images/github-search-ts.png" class="w-[23vw]">
 
 ::right::
 
@@ -354,7 +354,7 @@ Searched via GitHub
 
 806 results
 
-<img src="./images/github-search-flow.png" class="w-[30vw]">
+<img src="./images/github-search-flow.png" class="w-[25vw]">
 
 ---
 layout: cover
@@ -392,13 +392,13 @@ layout: cover
 
 # Code Mod (by Stripe)
 
-<img src="./images/codemod-github.png" class="w-[60vw] h-auto mx-auto my-16">
+<img src="./images/codemod-github.png" class="w-[40vw] h-auto mx-auto my-16">
 
 ---
 
 # Code Mod Blog Post (by Stripe)
 
-<img src="./images/codemod-blog-post.png" class="w-[60vw] h-auto mx-auto my-16">
+<img src="./images/codemod-blog-post.png" class="w-[40vw] h-auto mx-auto my-16">
 
 ---
 layout: quote
@@ -416,7 +416,7 @@ layout: cover
 
 ---
 
-<img src="./images/ast.svg" class="w-[40vw] h-auto mx-auto bg-white p-4 rounded-lg">
+<img src="./images/ast.svg" class="w-[30vw] h-auto mx-auto bg-white p-4 rounded-lg">
 
 ---
 
