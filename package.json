@@ -3,7 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build -o docs --base /presentation-migrating-600k--lines-of-code-from-flow-to-ts/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
