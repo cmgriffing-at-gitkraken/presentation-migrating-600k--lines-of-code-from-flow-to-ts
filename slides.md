@@ -302,7 +302,7 @@ layout: cover
 
 # Popularity (Google trends)
 
-<img src="./images/why-ts-popularity-search.png" class="w-[40vw] h-auto mx-auto my-16">
+<img src="./images/why-ts-popularity-search.png" class="w-[30vw] h-auto mx-auto my-16">
 
 ---
 
@@ -522,4 +522,4 @@ layout: cover
 
 ## Connect With Me
 
-<img src="./images/qr-code.png" class="w-[20vw] h-auto mx-auto mt-8">
+<img src="./images/qr-code.png" class="w-[10vw] h-auto mx-auto mt-8">
