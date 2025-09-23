@@ -1,0 +1,19 @@
+- intro
+- History about GitKraken
+  - Axosoft (Globoards)
+  - Born out of an internal hackathon
+- What is Flow
+  - Made by Facebook
+  - Used in React still
+  - Syntax examples
+- Comparing Flow to TypeScript
+- Why did we migrate?
+  - Popularity (line graphs compared)
+  - Type Availability
+  - Stuck on old version of Flow
+  - Iteration Speed
+  - Hiring/Training Costs
+- How did we migrate?
+  - One dedicated devs side project
+  - Code mod (by stripe)
+  - Testing
