@@ -386,7 +386,7 @@ layout: cover
 
 </div>
 
-...Photo of John Alden...
+<img src="./images/john-alden-2.png" class="w-[40vw] h-auto mx-auto my-16">
 
 ---
 
